@@ -7,4 +7,4 @@ Hi, I'm Jackson Zeng! I'm a 2nd-year MURP student concentrating in transportatio
 This course will teach us the foundations of Python and GIS to perform spatial data analyses and create maps and other visualizations for planning practices and research. 
 
 ## Project Ideas and Class Objectives
-My project ideas include creating a map of street intersections that have vehicle crashes above a certain threshold and a map of streets that have Class IV buffered bike lanes. My objectives for the class include become more comfortable in Python coding and becoming proficient in using Python and GIS to generate maps and visualizations for planning purposes.
+My project ideas include creating a map of street intersections that have vehicle crashes above a certain threshold and a map of streets that have Class IV buffered bike lanes. My objectives for the class include becoming more comfortable in Python coding and becoming proficient in using Python and GIS to generate maps and visualizations for planning purposes.
